@@ -482,6 +482,12 @@ header .btn-get-started:hover {
   color: #fff;
 }
 
+.page-login .btn-register {
+  background-color: #0e3797;
+  color: #fff;
+  text-decoration: none !important;
+}
+
 .page-login .btn-login:hover {
   color: #fff;
 }

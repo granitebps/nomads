@@ -26,6 +26,7 @@
                             <div class="text-center">
                                 <img src="{{ asset('frontend/images/logo_nomads.png') }}" alt="" class="w-50 mb-4" />
                             </div>
+                            <h4>Login</h4>
                             <form action="{{ route('login') }}" method="post">
                                 @csrf
                                 <div class="form-group">
@@ -62,6 +63,7 @@
                                 <button type="submit" class="btn btn-login btn-block">
                                     Sign In
                                 </button>
+                                <a href="{{ route('register') }}" class="btn btn-block btn-register">Saya Belum Punya Akun</a>
                                 <p class="text-center mt-4">
                                     <a href="#">Saya Lupa Password</a>
                                 </p>
