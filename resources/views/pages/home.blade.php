@@ -125,7 +125,7 @@
                     <div class="card card-testimonial text-center">
                         <div class="testimonial-content">
                             <img src="frontend/images/testimonial-2.jpg" alt="User" class="mb-4 rounded-circle" />
-                            <h3 class="m-4">Adel</h3>
+                            <h3 class="m-4">Shayna</h3>
                             <p class="testimonial">
                                 " The trip was amazing and I saw something beautiful in that
                                 island that makes me want to learn more "
@@ -139,7 +139,7 @@
                     <div class="card card-testimonial text-center">
                         <div class="testimonial-content">
                             <img src="frontend/images/testimonial-3.jpg" alt="User" class="mb-4 rounded-circle" />
-                            <h3 class="m-4">Afifah</h3>
+                            <h3 class="m-4">Shabrina</h3>
                             <p class="testimonial">
                                 " I loved it when the waves was shaking harder - I was
                                 scared too "

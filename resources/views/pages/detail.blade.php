@@ -82,15 +82,13 @@
                     <div class="card card-details card-right">
                         <h2>Members are going</h2>
                         <div class="members my-2">
-                            <img src="{{ asset('frontend/images/member-1.png') }}" alt="Member"
+                            <img src="{{ asset('frontend/images/member-1.jpg') }}" alt="Member"
                                 class="member-image mr-1" />
-                            <img src="{{ asset('frontend/images/member-2.png') }}" alt="Member"
+                            <img src="{{ asset('frontend/images/member-2.jpg') }}" alt="Member"
                                 class="member-image mr-1" />
-                            <img src="{{ asset('frontend/images/member-3.png') }}" alt="Member"
+                            <img src="{{ asset('frontend/images/member-3.jpg') }}" alt="Member"
                                 class="member-image mr-1" />
-                            <img src="{{ asset('frontend/images/member-4.png') }}" alt="Member"
-                                class="member-image mr-1" />
-                            <img src="{{ asset('frontend/images/member-5.png') }}" alt="Member"
+                            <img src="{{ asset('frontend/images/member-4.jpg') }}" alt="Member"
                                 class="member-image mr-1" />
                             <img src="{{ asset('frontend/images/member-etc.png') }}" alt="Member"
                                 class="member-image mr-1" />
